@@ -1,4 +1,4 @@
 DBTasks
 =======
 
-Reflection based data access layer, based on method - db command execute architecture.
+Reflection based data access toolkit based on "method - db command" architecture.
